@@ -13,3 +13,8 @@ Long story short i found a few blogs and build logs, and decided to go for it. I
 ![back view](media/finished_rear.jpg)
 
 Check out the [build guide](./BUILD_GUIDE.md) for more info and details
+
+Special thanks to:
+
+* Morphy Kuffour https://github.com/morphykuffour
+* Darko Kojovic https://github.com/DKSadx

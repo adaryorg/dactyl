@@ -20,13 +20,15 @@ prepare the PCB's with hotswap sockets. I used one switch for this, put both soc
 
 ![pcb soldering](media/amoeba2.jpg)
 
-Step 4: start wiring up the controller pcb. Also make sure to send it to manufacturing with jlcpcb (which i used) or any other pcb manufacturer of your choice. make sure that the orientation of the sockets is the same like the photo below:
+Start wiring up the controller pcb. Also make sure to send it to manufacturing with jlcpcb (which i used) or any other pcb manufacturer of your choice. make sure that the orientation of the sockets is the same like the photo below:
 
 ![pcb](media/controller_pcb.jpg)
 
 Note that you don't have to use the 3 pin header since its not connected anywhere for this version. Connect the 8 pin cables to the finished pcb and start soldering the grid. I highly recommend to start with the controller wires and only insert the pcb's after the controller wires have been connected. 
 
 For the wiring diagram use the following graphic that i blatantly stole from https://github.com/morphykuffour/morphykuffour.github.io
+
+Thanks Morphy Kuffour your blog is awesome!
 
 ![wiring diagram](https://raw.githubusercontent.com/morphykuffour/morphykuffour.github.io/refs/heads/main/images/Wiring-Diagram-1.svg)
 
