@@ -14,6 +14,8 @@ Long story short i found a few blogs and build logs, and decided to go for it. I
 
 Check out the [build guide](./BUILD_GUIDE.md) for more info and details
 
+Check out the [BOM](BOM.md) for all the parts needed
+
 Special thanks to:
 
 * Morphy Kuffour https://github.com/morphykuffour

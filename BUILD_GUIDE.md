@@ -1,7 +1,5 @@
 [TOC]
 
-
-
 # Step 1 - 3d printing
 
 source the 3d printed keyboard body. link to the one i used is in the [BOM](./BOM.md). If you decide to use the same one, and also decide to use single key pcb's make sure to print out the spacers as well. 
@@ -63,3 +61,10 @@ Prepare tne dongle. In my case it was a leftover Seeeduino Xiao BLE in a small 3
 5. flash dactyl_right-nice_nano_v2-zmk.uf2 to the right side of the keyboard
 
 make sure that both sides of the keyboard are powered off and disconnected from the usb. Power on the dongle (connect it to the computer with an USB cable)  and then power on the left side of the keyboard first, and the right side second. If everything worked good, the keyboard should be in perfect working order with the default keymap that I set, and it should be capable of connecting to ZMK studo (esc+backspace is the unlock combo for zmk studio)
+
+# Notes
+
+* If you want to build the same keyboard without a dongle, you can use the firmware from https://github.com/IoakeimSogiakas/dactyl_manuform_5x6-ZMK which is the base for my firmware.
+* You can easily edit the keymap using https://nickcoutsos.github.io/keymap-editor/ - just fork my firmware repo
+
+This keyboard is still a WIP and i have plans for more refinements and a new dongle. All updates will be posted here.
